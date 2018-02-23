@@ -15,11 +15,11 @@ y empleando la plantilla disponible [http://vis.usal.es/~interfacesimaginadas/fi
 4. Por último, genera dos estilos diferentes:
   1. El primero se basará en una guía de estilo ya existente. Puedes utilizar una de las disponibles en [http://styleguides.io/](http://styleguides.io/) o buscar una tú. 
   2. El segundo será creado completamente por ti a partir de la película en cuestión. Para ello repara en cosas como:
-    1. Qué partes de la película te han llamado más la atención y quieres resaltar.
-    2. Año de la película.
-    3. Perfil del público.
-    4. Iconografía existente: Pósters y carteles, sitios web originales o de fans, etc.
-    5. ...
+    * Qué partes de la película te han llamado más la atención y quieres resaltar.
+      * Año de la película.
+      * Perfil del público.
+      * Iconografía existente: Pósters y carteles, sitios web originales o de fans, etc.
+      * ...
 
 ## Puntos extra por
 1. Emplear estructura HTML5 (nav, aside, section, article...)
