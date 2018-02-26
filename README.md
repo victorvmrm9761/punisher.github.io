@@ -34,11 +34,11 @@ para llegar a un layout, tipografía, colores, etc...
 
 ## Entrega    
 1. **Opción GIT**
-  * Sube tus cambios a tu repositorio  de GitHub Classroom.
+  * Sube tus cambios a tu repositorio de GitHub Classroom.
   * Cuando hayas terminado, envía un pull request para que el profesor pueda verlo.
-  * Envía a Studium el PDF con tu análisis de la película.
+  * Envía a Studium un documento PDF con tu análisis de la película y otro con el informe de las tareas realizadas en la práctica (min 5 págs.)
 2. **Opción Old School**
-  * Crea dos carpetas, "sitio" y "análisis". Dentro de la primera mete todo el código que hayas creado para esta práctica. En la segunda, mete el PDF generado a partir de la plantilla doc referenciada al principio de este texto. 
+  * Crea dos carpetas, "sitio" y "análisis". Dentro de la primera mete todo el código que hayas creado para esta práctica y su correspondiente informe (min 5 págs). En la segunda, mete el PDF generado a partir de la plantilla doc referenciada al principio de este texto. 
 
 
 ## Recursos de desarrollador
