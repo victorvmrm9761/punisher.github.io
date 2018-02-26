@@ -8,7 +8,7 @@ El template ha sido creado a partir de [html5boilerplate](https://github.com/h5b
 ## Instrucciones:
 1. Elige una película de lista en Studium.
 2. Realiza el análisis de la película según lo indicado en el enunciado de la práctica disponible en Studium
-y empleando la plantilla disponible [http://vis.usal.es/~interfacesimaginadas/fileadmin/user_upload/modelo_ficha-interfaces_imaginadas.dotx](aqui) 
+y empleando la plantilla disponible [http://vis.usal.es/~interfacesimaginadas/fileadmin/user_upload/modelo_ficha-interfaces_imaginadas.dotx](http://vis.usal.es/~interfacesimaginadas/fileadmin/user_upload/modelo_ficha-interfaces_imaginadas.dotx) 
 3. Una vez completado el análisis, usa y modifica esta plantilla para generar una estructura del contenido.
   1. **Opción GIT**: Utilizaremos GitHub Classroom para realizar el seguimiento de tu práctica. Para ello emplea el link de invitación que se proporciona en Studium
   2. **Opción Old School**: Descarga el zip de este repositorio, modifica a tu antojo y sube la práctica en un zip a Studium.
