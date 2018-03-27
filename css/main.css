@@ -17,11 +17,267 @@ html {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.5em;
- 
+    text-align:left;
+    padding-left:5%;
+    padding-right:5%;
+    background-color: #d1cfd0;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#85222F;
+}
+h2 {
+    padding-left: 5%;
+    font-family: 'Black Ops One', cursive;
+    color: #3F4557;
 }
 
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5%;
+    color: #3F4553;
+}
+body {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #080808;
+    position: relative;
+    margin: 0;
+}
+#portada{
+
+
+    width:77%;
+    display:block;
+    margin:auto;
+    height:auto;
+}
+#cabecera {
+    background-color: black;
+}
+
+
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #BFBDBE;
+    position: sticky;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+    top: 0;
+}
+#top {
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+
+}
+
+ul.topnav li {
+    float: left;
+    border-right: 1px solid #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#primero {
+    padding-left: 150px;
+    
+}
+
+        ul.topnav li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+            ul.topnav li a:hover:not(.active) {
+                background-color: #D80818;
+            }
+        ul.topnav li.right {
+            float: right;
+        }
+
+#Portada {
+
+    background: transparent;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    -webkit-border-radius: 10px;
+    padding-top:5%;
+    overflow:auto;
+}
+
+.info_cartel {
+    width: 74.50%;
+    float: left;
+    background: #BFBDBE;
+    height: 400px;
+    -webkit-border-radius: 0 10px 10px 0;
+    box-sizing: border-box;
+}
+.titulo {
+    top: 10%;
+    left: 10%;
+    margin-bottom: 0;
+    padding-left: 5%;
+    width: 90%;
+    font-family: 'Black Ops One', cursive;
+    color: #3F4553;
+}
+.datos {
+    top: 10%;
+    left: 10%;
+    margin-top: 2.5%;
+    margin-bottom: 0;
+    padding-left: 5%;
+    width: 90%;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #3F4553;
+}
+#imagen_cartel {
+    width: 24.25%;
+    height: auto;
+    float: left;
+    overflow: hidden;
+    background-color: transparent;
+    -webkit-border-radius: 10px 0 0 10px;
+    border: 6px solid #535253;
+}
+#imagen_imdb {
+    width: 10%;
+    height: 10%;
+    padding-left:5%;
+    display: inline-block;
+    left: 74px;
+    top: 32px;
+   
+}
+#imagen_youtube {
+    width: 50px;
+    height: 10%;
+    display: inline-block;
+    padding-left:2%;
+    left: 74px;
+    top: 32px;
+}
+#imagen_netflix {
+    width: 40px;
+    height: 35px;
+    display: inline-block;
+    padding-left:2%;
+    left: 74px;
+    top: 32px;
+}
+.duration {
+    padding-left: 2%;
+    display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #85222F
+}
+.datos_tec{
+    margin-top:2.5%;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-right:5%;
+}
+.cab_tit {
+    padding-left: 5%;
+    color: #3F4553;
+}
+.cab_val {
+    padding-left: 10%;
+    color: #85222F;
+}
+#content {
+    padding-left: 150px;
+    padding-right: 150px;
+    box-sizing: border-box;
+    
+}
+.section {
+    background-color: #d1cfd0;
+}
+#information {
+    background-color: #d1cfd0;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    margin-top:5%;
+}
+#Sinopsis {
+    margin-top: 5%;
+    padding-top:2.5%;
+
+}
+.section_title {
+    font-family: 'Black Ops One', cursive;
+    font-size: 2em;
+    line-height: 1.5em;
+    color: #3F4553;
+    padding-left:5%;
+   
+}
+#necesidad {
+    width: 90%;
+    margin-left: 5%;
+    border: 6px solid #535253;
+    overflow: hidden;
+    background-color: transparent;
+}
+.referencias{
+    padding-left:5%;
+    padding-bottom:5%;
+    color:#85222F;
+}
+@media screen and (max-width: 900px) {
+    ul.topnav li.right,
+    ul.topnav li {
+        float: none;
+    }
+    ul.topnav {
+        position:relative;
+    }
+    #primero {
+        padding-left:unset;
+    }
+    #top{
+        position:relative;
+    }
+    p {
+        font-size: 0.75em;
+        line-height: 1.5em;
+        text-align: left;
+        padding-left: 5%;
+        padding-right: 5%;
+        background-color: #d1cfd0;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #85222F;
+    }
+    #content {
+        padding-left:5%;
+        padding-right:5%;
+    }
+    .section_title {
+        font-size: 1.5em;
+
+    }
+    #imagen_cartel {
+        width: 90%;
+       
+
+        border: 3px solid #535253;
+    }
+    .info_cartel {
+        width: 100%;
+        height: auto;
+
+    }
+}
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
